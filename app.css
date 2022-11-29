@@ -1,0 +1,10 @@
+Screen {
+       align: center middle;
+}
+
+Canvas {
+    background: darkblue;
+    border: white;
+    width: auto;
+    height: auto;
+}
